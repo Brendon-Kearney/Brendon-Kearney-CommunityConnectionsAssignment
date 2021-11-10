@@ -1,6 +1,8 @@
 #include "Students.h"
 // By: Brendon Kearney
 // Implementation file
+//first addition
+//seccond addition
 
 ClassRoll::ClassRoll(string fileName, string nameOfCourse, int initialMaxStudents)
 {

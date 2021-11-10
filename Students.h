@@ -4,8 +4,7 @@
 #include <fstream>
 using namespace std;
 
-// By: Brendon Kearney
-// specification file
+
 
 const int SIZE = 25;
 

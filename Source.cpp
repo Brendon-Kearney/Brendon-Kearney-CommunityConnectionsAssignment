@@ -1,6 +1,6 @@
 #include "Students.h"
-// By: Brendon Kearney
-// client code
+// Not By: Brendon Kearney
+// not client code
 
 // add the showCourse() function here 
 void ClassRoll::showCourse()const
